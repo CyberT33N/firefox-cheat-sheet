@@ -1,6 +1,6 @@
 
 
-# ninstall
+# uninstall
 
 
 ## linux
